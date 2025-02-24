@@ -1,4 +1,4 @@
-# Theprenjaks-project1
+# Theprenjaks-ubidots 🤖
 Projek ini merupakan projek tugas dari Samsung Innovation Campus Batch 6 yang dimana penugasan ini mewajibkan peserta untuk menampilkan sebuah data dari sensor esp yang telah dibuat ke UBIDOTS untuk visualisasi data tersebut dan data dari esp disimpan ke database MongoDB, hal-hal yang harus disiapkan:
 - Piranti IOT (esp-32, breadbord, dll)
 - Database MongoDB
