@@ -9,3 +9,10 @@ Projek ini merupakan projek tugas dari Samsung Innovation Campus Batch 6 yang di
 
 
 #### dibuat oleh : Ahmad Nabil, Farrel Muhammad, Ganendra Jawa, Arga Fikri
+
+
+## Tampilan Ubidots
+![ubidot](https://github.com/user-attachments/assets/3afbcb8b-57e4-4764-8031-8aac8189f726)
+
+## Tampilan MongoDB
+![mongodb](https://github.com/user-attachments/assets/ab610579-c4e5-4521-95ac-d5a751fbb336)
